@@ -35,8 +35,9 @@
             </nav>
             <div class="container py-32 mx-auto text-center sm:px-4">
 
-                <h1 class="text-4xl font-extrabold leading-10 tracking-tight text-white sm:text-5xl sm:leading-none md:text-6xl xl:text-7xl"><span class="block">Streamline your life</span></h1>
-                <h2 class="text-3xl"><span class="relative inline-block mt-3  text-slate-300">Call today to book an appointment!</span></h2>
+                <h1 class="text-4xl font-extrabold leading-10 tracking-tight text-white sm:text-5xl sm:leading-none md:text-6xl xl:text-7xl"><span class="block">Full Body Waxing Services</span></h1>
+                <h2 class="text-3xl"><span class="relative inline-block mt-3  text-slate-300">Book an appointment today!</span></h2>
+                <a href="https://streamline-waxing.square.site/s/appointments"><button class="mt-6 bg-transparent hover:bg-slate-300 text-white font-semibold hover:text-black py-2 px-4 border border-blue-500 hover:border-transparent rounded">Book Now!</button></a>
                 <div class="max-w-lg mx-auto mt-6 text-sm text-center text-indigo-200 md:mt-12 sm:text-base md:max-w-xl md:text-lg xl:text-xl">
                     <div class="flex-col text-white relative block">
                         <address>
